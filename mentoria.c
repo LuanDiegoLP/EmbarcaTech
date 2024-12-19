@@ -4,7 +4,7 @@ int calc_fat(int);
 
 int main()
 {
-    int numero = 6; // teste ramo
+    int numero = 6; // teste ramo2
     int num_fat = calc_fat(numero);
     printf("\nO fatorial de %d eh: %d", numero , num_fat);
     return 0;
